@@ -22,9 +22,9 @@
 	</organization>
 
 	<scm>
-		<connection>scm:git:https://github.com/SIGDEP-3/openmrs-module-hivscreening.git</connection>
-		<developerConnection>scm:git:https://github.com/SIGDEP-3/openmrs-module-hivscreening.git</developerConnection>
-		<url>scm:git:https://github.com/SIGDEP-3/openmrs-module-hivscreening.git</url>
+		<connection>scm:git:https://github.com/SIGDEP-3/org.openmrs.module.hivscreening.git</connection>
+		<developerConnection>scm:git:https://github.com/SIGDEP-3/org.openmrs.module.hivscreening.git</developerConnection>
+		<url>scm:git:https://github.com/SIGDEP-3/org.openmrs.module.hivscreening.git</url>
 	  <tag>HEAD</tag>
   	</scm>
 
