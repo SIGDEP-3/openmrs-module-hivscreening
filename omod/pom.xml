@@ -62,6 +62,12 @@
 		
 		<!-- End OpenMRS core -->
 
+		<dependency>
+			<groupId>org.openmrs.module</groupId>
+			<artifactId>legacyui-omod</artifactId>
+			<version>1.15.4-sigdep-SNAPSHOT</version>
+			<scope>provided</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
