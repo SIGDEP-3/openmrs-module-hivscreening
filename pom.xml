@@ -88,7 +88,7 @@
 			<dependency>
 				<groupId>org.openmrs.module</groupId>
 				<artifactId>legacyui-omod</artifactId>
-				<version>1.15.4-sigdep-SNAPSHOT</version>
+				<version>1.22.0-SNAPSHOT</version>
 				<scope>provided</scope>
 			</dependency>
 		</dependencies>

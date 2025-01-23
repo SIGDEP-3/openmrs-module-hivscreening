@@ -26,6 +26,15 @@
 		<class>${project.parent.groupId}.${project.parent.artifactId}.extension.html.AdminList</class>
 	</extension>
 	
+	<require_modules>
+		<require_module version="2.47.0">
+			org.openmrs.module.webservices.rest
+		</require_module>
+		<require_module version="1.22.0-SNAPSHOT">
+			org.openmrs.module.legacyui
+		</require_module>
+	</require_modules>
+
 	<!-- Maps hibernate file's, if present -->
 <!--	<mappingFiles>-->
 <!--				-->
@@ -90,4 +99,3 @@
 	<!-- /Internationalization -->
 
 </module>
-
